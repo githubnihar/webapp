@@ -9,7 +9,7 @@
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
       <h1 class="text-center">Azure CI/CD pipeline job</h1>
-      <h2 class="text-center">Now you are with Nihar</h2>
+      <h2 class="text-center">Now you are with Paridhi Panda</h2>
   </div>
 </body>
 </html>
