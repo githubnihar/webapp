@@ -29,4 +29,4 @@ steps:
     containerRegistry: 'docketazure'
     repository: '9776800500 / azuredevops'
     command: 'buildAndPush'
-    Dockerfile: '**/dockerfile'
+    Dockerfile: '**/Dockerfile'
